@@ -79,3 +79,10 @@ property to 992px and the height property to 290px.
 
 Step 12
 Set the margin of the #piano to 80px auto.
+
+Step 13
+Time to style the keys. Below the #piano rule, 
+target the .keys element with a class selector. 
+Give the new rule a background-color property of 
+#040404, a width property of 949px and a height 
+property of 180px.
