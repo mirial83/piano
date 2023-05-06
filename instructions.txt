@@ -6,3 +6,8 @@ and title elements.
 Set the language of this page to English. 
 Set the title to Piano.
 
+Step 2
+Add two meta tags, one to optimize your 
+page for mobile devices, and one to specify 
+an accepted charset for the page.
+
