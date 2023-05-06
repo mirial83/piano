@@ -23,3 +23,12 @@ and set the class to be keys.
 Step 5
 Within your .keys element, add seven div 
 elements. Give them all the class key.
+
+Step 6
+Remember that a class attribute can have 
+multiple values. To separate your white 
+keys from your black keys, you'll add a 
+second class value of black--key. Add this 
+to your second, third, fifth, sixth, and seventh 
+.key elements.
+
