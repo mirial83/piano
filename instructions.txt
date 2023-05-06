@@ -89,3 +89,7 @@ property of 180px.
 
 Step 14
 Give the .keys a padding-left of 2px.
+
+Step 15
+Move the keys into position by adjusting the #piano 
+selector. Set the padding property to 90px 20px 0 20px.
