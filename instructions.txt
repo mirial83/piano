@@ -99,3 +99,6 @@ Time to style the keys themselves. Create a class
 selector for the .key elements. Set the background-color 
 set to the value #ffffff, the position property to relative, 
 the width property to 41px, and the height property to 175px.
+
+Step 17
+Give the .key a margin of 2px and a float property set to left.
