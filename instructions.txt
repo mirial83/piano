@@ -186,3 +186,7 @@ and set the width to 358px.
 
 Step 29
 Within the @media query, add a .keys selector and set the width to 318px.
+
+Step 30
+Now add a .logo selector to the @media query, and set 
+the width property to 150px.
